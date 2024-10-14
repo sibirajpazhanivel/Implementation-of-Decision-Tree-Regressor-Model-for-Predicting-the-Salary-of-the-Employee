@@ -34,8 +34,8 @@ STEP 11: End
 ```
 /*
 Program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
-Developed by: MANOJ MV
-RegisterNumber:  212222220023
+Developed by:SIBIRAJ P
+RegisterNumber:  212222220046
 */
 import pandas as pd
 
